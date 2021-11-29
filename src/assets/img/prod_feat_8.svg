@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>8</title>
+    <g id="二期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品切图" transform="translate(-164.000000, -413.000000)">
+            <g id="8" transform="translate(164.000000, 413.000000)">
+                <g id="64adafffa4127510023d913d373da4ca" transform="translate(4.000000, 5.000000)">
+                    <rect id="Rectangle-3" fill="#00A4FF" fill-rule="nonzero" x="11" y="19" width="31" height="7"></rect>
+                    <rect id="Rectangle-3-Copy-2" fill="#00A4FF" fill-rule="nonzero" x="11" y="34" width="31" height="7"></rect>
+                    <rect id="Rectangle-3-Copy" fill="#00A4FF" fill-rule="nonzero" x="11" y="4" width="31" height="7"></rect>
+                    <polygon id="Rectangle-18" stroke="#334966" stroke-width="2" points="0 0 0 10 42 10 42 0"></polygon>
+                    <polygon id="Rectangle-18-Copy" stroke="#334966" stroke-width="2" points="0 15 0 25 42 25 42 15"></polygon>
+                    <polygon id="Rectangle-18-Copy-2" stroke="#334966" stroke-width="2" points="0 30 0 40 42 40 42 30"></polygon>
+                    <circle id="椭圆形" fill="#334966" fill-rule="nonzero" cx="6" cy="5" r="2"></circle>
+                    <circle id="椭圆形-copy" fill="#00A4FF" fill-rule="nonzero" cx="6" cy="20" r="2"></circle>
+                    <circle id="椭圆形-copy-2" fill="#334966" fill-rule="nonzero" cx="6" cy="35" r="2"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

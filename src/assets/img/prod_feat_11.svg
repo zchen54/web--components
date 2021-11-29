@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>11</title>
+    <g id="二期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品切图" transform="translate(-476.000000, -413.000000)">
+            <g id="11" transform="translate(476.000000, 413.000000)">
+                <g id="icon-support01" transform="translate(1.000000, 4.000000)">
+                    <path d="M48,0 L0,0 L0,36 L48,36 L48,0 Z M2,34 L2,2 L46,2 L46,34 L2,34 Z" id="Rectangle-16" fill="#334966"></path>
+                    <polygon id="Rectangle-17" fill="#334966" fill-rule="nonzero" points="12 40 36 40 36 42 12 42"></polygon>
+                    <polygon id="Rectangle-73" fill="#334966" fill-rule="nonzero" points="20 34 22 34 22 42 20 42"></polygon>
+                    <polygon id="Rectangle-73-Copy" fill="#334966" fill-rule="nonzero" points="26 34 28 34 28 42 26 42"></polygon>
+                    <polygon id="Rectangle-74" fill="#00A4FF" fill-rule="nonzero" points="2 11 46 11 46 15 2 15"></polygon>
+                    <polygon id="Rectangle-74-Copy" fill="#00A4FF" fill-rule="nonzero" points="2 23 46 23 46 27 2 27"></polygon>
+                    <polygon id="Path-5" fill="#334966" fill-rule="nonzero" points="15.1965 11.20125 11.677 19.99995 1 19.99995 1 17.99995 10.32297 17.99995 14.8035 6.79875 24.9705 23.06595 31.855 11.26394 37.4684 17.99995 47 17.99995 47 19.99995 36.5316 19.99995 32.145 14.73605 25.0295 26.93405"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

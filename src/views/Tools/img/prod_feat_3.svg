@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>16</title>
+    <g id="二期" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="产品切图" transform="translate(-372.000000, -513.000000)">
+            <g id="16" transform="translate(372.000000, 513.000000)">
+                <g id="bcf805c28f458be126bed3609138d8d3" transform="translate(2.000000, 6.000000)">
+                    <rect id="Rectangle-23" stroke="#334966" stroke-width="2" x="0" y="0" width="46" height="38"></rect>
+                    <g id="Group" transform="translate(10.000000, 12.000000) rotate(-45.000000) translate(-10.000000, -12.000000) translate(6.000000, 8.000000)" fill="#334966" fill-rule="nonzero">
+                        <polygon id="Combined-Shape" points="8 8 -2.27373675e-13 8 -2.27373675e-13 6 6 6 6 0 8 0"></polygon>
+                    </g>
+                    <rect id="Rectangle-109" fill="#00A4FF" fill-rule="nonzero" x="19" y="11" width="8" height="2"></rect>
+                    <rect id="Rectangle-108" fill="#00A4FF" fill-rule="nonzero" x="7" y="23" width="38" height="10"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
